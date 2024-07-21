@@ -18,9 +18,9 @@ The goal of this project was to first perform exploratory analyses on the Citi B
     * End Longitude
     * Member or casual rider
 The data used was from Jersey City (JC) from March, April and May 2024, downloadable at [https://s3.amazonaws.com/tripdata/index.html](https://s3.amazonaws.com/tripdata/index.html) 
-    * JC-202403-citibike-tripdata.csv.zip
-    * JC-202404-citibike-tripdata.csv.zip
-    * JC-202405-citibike-tripdata.csv.zip
+   * JC-202403-citibike-tripdata.csv.zip
+   * JC-202404-citibike-tripdata.csv.zip
+   * JC-202405-citibike-tripdata.csv.zip
 
 ### Instructions
 1. Clean your data
