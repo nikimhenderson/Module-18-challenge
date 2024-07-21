@@ -3,20 +3,20 @@
 
 ## Introduction
 The goal of this project was to first perform exploratory analyses on the Citi Bike data, which includes data on:
+   * Ride ID
+   * Rideable type (electric or classic)
+   * Started at (time)
+   * Ended at (time)
+   * Start station name
+   * Start station ID
+   * End station name
+   * End station ID
+   * Start latitude
+   * Start longitude
+   * End latitude
+   * End Longitude
+   * Member or casual rider
 
-    * Ride ID
-    * Rideable type (electric or classic)
-    * Started at (time)
-    * Ended at (time)
-    * Start station name
-    * Start station ID
-    * End station name
-    * End station ID
-    * Start latitude
-    * Start longitude
-    * End latitude
-    * End Longitude
-    * Member or casual rider
 The data used was from Jersey City (JC) from March, April and May 2024, downloadable at [https://s3.amazonaws.com/tripdata/index.html](https://s3.amazonaws.com/tripdata/index.html) 
    * JC-202403-citibike-tripdata.csv.zip
    * JC-202404-citibike-tripdata.csv.zip
