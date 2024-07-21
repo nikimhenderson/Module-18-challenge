@@ -2,7 +2,7 @@
 ![citi-bike-station-bikes](https://github.com/user-attachments/assets/6b833323-cd85-4a1a-a1eb-782a8415bc8c) <br/>
 
 ## Introduction
-The goal of this project was to first perform exploratory analyses on the Citi Bike data, which includes data on:
+The goal of this project was to perform exploratory analyses on the Citi Bike data, which includes data on:
    * Ride ID
    * Rideable type (electric or classic)
    * Started at (time)
@@ -26,7 +26,7 @@ The data used was from Jersey City (JC) from March, April and May 2024, download
 1. Clean your data
 2. Design 2-5 visualizations for each discovered phenomenon
 3. Use your visualizations to design a dashboard for each phenomenon
-4. Create a dynamic map that shows how each station's popularity changes over time
+4. Create a dynamic map
 5. Create a tableau story that brings together the visualizations, maps and dashboards
 6. Deploy on Tableau Public
 
