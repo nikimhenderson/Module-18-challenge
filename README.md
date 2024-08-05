@@ -39,4 +39,4 @@ While there were many questions I could have answered with this data I chose to 
 Attached here for your review is my original preprocessing jupyter notebook where I cleaned the data before importing it into Tableau.
 The original csv files are also provided in the Resources folder <br/>
 
-Please see the [Tableau Dashboard](https://public.tableau.com/views/Module18Challenge-NewYorkCitiBikeData/StationPopularityandPeakRidesStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) here
+Please see the [Tableau Dashboard](https://public.tableau.com/shared/YSXWBSXJZ?:display_count=n&:origin=viz_share_link) here
